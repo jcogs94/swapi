@@ -1,0 +1,13 @@
+:host {
+    margin-top: auto;
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+    background-color: grey;
+    width: 100%;
+    padding: 30px 20px;
+    align-items: center;
+    justify-content: space-evenly;
+}
